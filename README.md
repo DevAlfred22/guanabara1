@@ -1,6 +1,7 @@
 # guanabara1
  Primeiro modulo html
-acho que vou conseguir
+Estou Conseguindo!
+<br>
 <a href="https://devalfred22.github.io/guanabara1/EX00/"target="_blank"rel="external">Acesse o Exercicio 00</a>
 <b>
 <a href="https://devalfred22.github.io/guanabara1/EX01/"target="_blank"rel="external">Acesse o Exercicio 01</a>
